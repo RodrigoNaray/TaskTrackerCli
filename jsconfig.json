@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6",       // Para usar características modernas de JavaScript
+    "module": "commonjs",  // Otras opciones pueden ser "esnext"
+    "checkJs": true        // Para habilitar la verificación de tipo en archivos JS
+  },
+  "exclude": ["node_modules"]
+}
