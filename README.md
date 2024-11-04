@@ -1,6 +1,6 @@
 # TaskTracker
 
-TaskTracker is a command-line application for managing tasks. It allows you to add, update, delete, list, and change the status of tasks.
+TaskTracker is a command-line application for managing tasks from the site https://roadmap.sh/projects/task-tracker . It allows you to add, update, delete, list, and change the status of tasks.
 
 ## Features
 
